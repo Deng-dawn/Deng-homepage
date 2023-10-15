@@ -1,5 +1,6 @@
-Thanks for downloading this template!
+Deng's personal Website
 
+Credit:
 Template Name: Personal
 Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
 Author: BootstrapMade.com
